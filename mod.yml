@@ -1,0 +1,13 @@
+title: KH1 Save Anywhere (1.0.0)
+originalAuthor: Mariano
+description: >-
+  Save and change your party anywhere: the Start menu opens the save point
+  menu, and its "Menu" option still opens the normal menu. Cutscenes, fights
+  and the gummi ship keep their normal pause. Steam version only.
+game: kh1
+assets:
+- name: scripts/KH1_Save_Anywhere.lua
+  platform: pc
+  method: copy
+  source:
+  - name: KH1_Save_Anywhere.lua
